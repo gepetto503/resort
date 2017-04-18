@@ -1,0 +1,24 @@
+h1{
+  font-size: 50px;
+  font-family: cursive;
+  color: #e21858
+}
+h2{
+  font-size: 45px;
+  font-family: cursive;
+  color: #e3ea0e
+
+}
+
+p{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+html{
+  background: url(phuquoc.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
